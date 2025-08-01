@@ -1,0 +1,992 @@
+[
+    {
+        "('Setor', 'Setor')":"Bens Indls \/ Máqs e Equips",
+        "('Código', 'Código')":"WEGE3",
+        "('Ação', 'Ação')":"WEG",
+        "('Tipo', 'Tipo')":"ON ED NM",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"1.482.105.837",
+        "('%Setor', 'Part. (%)')":2556.0,
+        "('%Setor', 'Part. (%)Acum.')":2556.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Bens Indls \/ Mat Transporte",
+        "('Código', 'Código')":"EMBR3",
+        "('Ação', 'Ação')":"EMBRAER",
+        "('Tipo', 'Tipo')":"ON NM",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"734.631.701",
+        "('%Setor', 'Part. (%)')":2753.0,
+        "('%Setor', 'Part. (%)Acum.')":3009.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Bens Indls \/ Mat Transporte",
+        "('Código', 'Código')":"POMO4",
+        "('Ação', 'Ação')":"MARCOPOLO",
+        "('Tipo', 'Tipo')":"PN N2",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"666.378.439",
+        "('%Setor', 'Part. (%)')":256.0,
+        "('%Setor', 'Part. (%)Acum.')":3009.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Bens Indls \/ Serviços",
+        "('Código', 'Código')":"GGPS3",
+        "('Ação', 'Ação')":"GPS",
+        "('Tipo', 'Tipo')":"ON NM",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"392.414.992",
+        "('%Setor', 'Part. (%)')":258.0,
+        "('%Setor', 'Part. (%)Acum.')":258.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Bens Indls\/Transporte",
+        "('Código', 'Código')":"ECOR3",
+        "('Ação', 'Ação')":"ECORODOVIAS",
+        "('Tipo', 'Tipo')":"ON NM",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"329.302.615",
+        "('%Setor', 'Part. (%)')":103.0,
+        "('%Setor', 'Part. (%)Acum.')":1870.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Bens Indls\/Transporte",
+        "('Código', 'Código')":"MOTV3",
+        "('Ação', 'Ação')":"MOTIVA SA",
+        "('Tipo', 'Tipo')":"ON NM",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"991.920.937",
+        "('%Setor', 'Part. (%)')":567.0,
+        "('%Setor', 'Part. (%)Acum.')":1870.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Bens Indls\/Transporte",
+        "('Código', 'Código')":"RAIL3",
+        "('Ação', 'Ação')":"RUMO S.A.",
+        "('Tipo', 'Tipo')":"ON NM",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"1.216.914.397",
+        "('%Setor', 'Part. (%)')":935.0,
+        "('%Setor', 'Part. (%)Acum.')":1870.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Bens Indls\/Transporte",
+        "('Código', 'Código')":"STBP3",
+        "('Ação', 'Ação')":"SANTOS BRP",
+        "('Tipo', 'Tipo')":"ON NM",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"409.543.219",
+        "('%Setor', 'Part. (%)')":265.0,
+        "('%Setor', 'Part. (%)Acum.')":1870.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Cons N Básico \/ Alimentos Processados",
+        "('Código', 'Código')":"BRFS3",
+        "('Ação', 'Ação')":"BRF SA",
+        "('Tipo', 'Tipo')":"ON NM",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"832.617.717",
+        "('%Setor', 'Part. (%)')":776.0,
+        "('%Setor', 'Part. (%)Acum.')":1213.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Cons N Básico \/ Alimentos Processados",
+        "('Código', 'Código')":"MRFG3",
+        "('Ação', 'Ação')":"MARFRIG",
+        "('Tipo', 'Tipo')":"ON NM",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"237.618.211",
+        "('%Setor', 'Part. (%)')":235.0,
+        "('%Setor', 'Part. (%)Acum.')":1213.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Cons N Básico \/ Alimentos Processados",
+        "('Código', 'Código')":"BEEF3",
+        "('Ação', 'Ação')":"MINERVA",
+        "('Tipo', 'Tipo')":"ON NM",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"433.214.256",
+        "('%Setor', 'Part. (%)')":99.0,
+        "('%Setor', 'Part. (%)Acum.')":1213.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Cons N Básico \/ Alimentos Processados",
+        "('Código', 'Código')":"SMTO3",
+        "('Ação', 'Ação')":"SAO MARTINHO",
+        "('Tipo', 'Tipo')":"ON EJ NM",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"128.130.966",
+        "('%Setor', 'Part. (%)')":103.0,
+        "('%Setor', 'Part. (%)Acum.')":1213.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Cons N Cíclico \/ Bebidas",
+        "('Código', 'Código')":"ABEV3",
+        "('Ação', 'Ação')":"AMBEV S\/A",
+        "('Tipo', 'Tipo')":"ON",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"4.394.835.131",
+        "('%Setor', 'Part. (%)')":2544.0,
+        "('%Setor', 'Part. (%)Acum.')":2544.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Cons N Cíclico \/ Comércio Distr.",
+        "('Código', 'Código')":"ASAI3",
+        "('Ação', 'Ação')":"ASSAI",
+        "('Tipo', 'Tipo')":"ON NM",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"1.345.897.506",
+        "('%Setor', 'Part. (%)')":588.0,
+        "('%Setor', 'Part. (%)Acum.')":820.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Cons N Cíclico \/ Comércio Distr.",
+        "('Código', 'Código')":"GMAT3",
+        "('Ação', 'Ação')":"GRUPO MATEUS",
+        "('Tipo', 'Tipo')":"ON NM",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"461.916.853",
+        "('%Setor', 'Part. (%)')":157.0,
+        "('%Setor', 'Part. (%)Acum.')":820.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Cons N Cíclico \/ Comércio Distr.",
+        "('Código', 'Código')":"PCAR3",
+        "('Ação', 'Ação')":"P.ACUCAR-CBD",
+        "('Tipo', 'Tipo')":"ON NM",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"461.260.303",
+        "('%Setor', 'Part. (%)')":75.0,
+        "('%Setor', 'Part. (%)Acum.')":820.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Cons N Cíclico \/ Pr Pessoal Limp",
+        "('Código', 'Código')":"NATU3",
+        "('Ação', 'Ação')":"NATURA",
+        "('Tipo', 'Tipo')":"ON NM",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"845.713.747",
+        "('%Setor', 'Part. (%)')":355.0,
+        "('%Setor', 'Part. (%)Acum.')":355.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Cons N Ciclico\/Agropecuária",
+        "('Código', 'Código')":"SLCE3",
+        "('Ação', 'Ação')":"SLC AGRICOLA",
+        "('Tipo', 'Tipo')":"ON NM",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"194.261.422",
+        "('%Setor', 'Part. (%)')":165.0,
+        "('%Setor', 'Part. (%)Acum.')":165.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Consumo Cíclico \/ Comércio",
+        "('Código', 'Código')":"AZZA3",
+        "('Ação', 'Ação')":"AZZAS 2154",
+        "('Tipo', 'Tipo')":"ON NM",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"136.643.320",
+        "('%Setor', 'Part. (%)')":227.0,
+        "('%Setor', 'Part. (%)Acum.')":1254.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Consumo Cíclico \/ Comércio",
+        "('Código', 'Código')":"CEAB3",
+        "('Ação', 'Ação')":"CEA MODAS",
+        "('Tipo', 'Tipo')":"ON NM",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"101.504.341",
+        "('%Setor', 'Part. (%)')":78.0,
+        "('%Setor', 'Part. (%)Acum.')":1254.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Consumo Cíclico \/ Comércio",
+        "('Código', 'Código')":"LREN3",
+        "('Ação', 'Ação')":"LOJAS RENNER",
+        "('Tipo', 'Tipo')":"ON NM",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"1.030.587.204",
+        "('%Setor', 'Part. (%)')":779.0,
+        "('%Setor', 'Part. (%)Acum.')":1254.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Consumo Cíclico \/ Comércio",
+        "('Código', 'Código')":"MGLU3",
+        "('Ação', 'Ação')":"MAGAZ LUIZA",
+        "('Tipo', 'Tipo')":"ON NM",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"353.448.195",
+        "('%Setor', 'Part. (%)')":116.0,
+        "('%Setor', 'Part. (%)Acum.')":1254.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Consumo Cíclico \/ Comércio",
+        "('Código', 'Código')":"PETZ3",
+        "('Ação', 'Ação')":"PETZ",
+        "('Tipo', 'Tipo')":"ON NM",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"295.519.280",
+        "('%Setor', 'Part. (%)')":54.0,
+        "('%Setor', 'Part. (%)Acum.')":1254.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Consumo Cíclico \/ Tecid Vest Calç",
+        "('Código', 'Código')":"VIVA3",
+        "('Ação', 'Ação')":"VIVARA S.A.",
+        "('Tipo', 'Tipo')":"ON NM",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"123.160.591",
+        "('%Setor', 'Part. (%)')":145.0,
+        "('%Setor', 'Part. (%)Acum.')":145.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Consumo Cíclico\/Constr Civil",
+        "('Código', 'Código')":"CURY3",
+        "('Ação', 'Ação')":"CURY S\/A",
+        "('Tipo', 'Tipo')":"ON NM",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"133.117.425",
+        "('%Setor', 'Part. (%)')":182.0,
+        "('%Setor', 'Part. (%)Acum.')":956.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Consumo Cíclico\/Constr Civil",
+        "('Código', 'Código')":"CYRE3",
+        "('Ação', 'Ação')":"CYRELA REALT",
+        "('Tipo', 'Tipo')":"ON NM",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"257.174.951",
+        "('%Setor', 'Part. (%)')":293.0,
+        "('%Setor', 'Part. (%)Acum.')":956.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Consumo Cíclico\/Constr Civil",
+        "('Código', 'Código')":"DIRR3",
+        "('Ação', 'Ação')":"DIRECIONAL",
+        "('Tipo', 'Tipo')":"ON NM",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"108.541.907",
+        "('%Setor', 'Part. (%)')":197.0,
+        "('%Setor', 'Part. (%)Acum.')":956.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Consumo Cíclico\/Constr Civil",
+        "('Código', 'Código')":"EZTC3",
+        "('Ação', 'Ação')":"EZTEC",
+        "('Tipo', 'Tipo')":"ON NM",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"95.300.871",
+        "('%Setor', 'Part. (%)')":61.0,
+        "('%Setor', 'Part. (%)Acum.')":956.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Consumo Cíclico\/Constr Civil",
+        "('Código', 'Código')":"MRVE3",
+        "('Ação', 'Ação')":"MRV",
+        "('Tipo', 'Tipo')":"ON NM",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"375.507.695",
+        "('%Setor', 'Part. (%)')":104.0,
+        "('%Setor', 'Part. (%)Acum.')":956.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Consumo Cíclico\/Constr Civil",
+        "('Código', 'Código')":"TEND3",
+        "('Ação', 'Ação')":"TENDA",
+        "('Tipo', 'Tipo')":"ON NM",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"120.609.176",
+        "('%Setor', 'Part. (%)')":119.0,
+        "('%Setor', 'Part. (%)Acum.')":956.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Consumo Cíclico\/Viagens e Lazer",
+        "('Código', 'Código')":"CVCB3",
+        "('Ação', 'Ação')":"CVC BRASIL",
+        "('Tipo', 'Tipo')":"ON NM",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"450.926.127",
+        "('%Setor', 'Part. (%)')":49.0,
+        "('%Setor', 'Part. (%)Acum.')":365.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Consumo Cíclico\/Viagens e Lazer",
+        "('Código', 'Código')":"SMFT3",
+        "('Ação', 'Ação')":"SMART FIT",
+        "('Tipo', 'Tipo')":"ON NM",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"328.547.988",
+        "('%Setor', 'Part. (%)')":316.0,
+        "('%Setor', 'Part. (%)Acum.')":365.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Diversos",
+        "('Código', 'Código')":"COGN3",
+        "('Ação', 'Ação')":"COGNA ON",
+        "('Tipo', 'Tipo')":"ON NM",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"1.872.454.628",
+        "('%Setor', 'Part. (%)')":240.0,
+        "('%Setor', 'Part. (%)Acum.')":2057.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Diversos",
+        "('Código', 'Código')":"RENT3",
+        "('Ação', 'Ação')":"LOCALIZA",
+        "('Tipo', 'Tipo')":"ON NM",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"956.264.719",
+        "('%Setor', 'Part. (%)')":1539.0,
+        "('%Setor', 'Part. (%)Acum.')":2057.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Diversos",
+        "('Código', 'Código')":"MOVI3",
+        "('Ação', 'Ação')":"MOVIDA",
+        "('Tipo', 'Tipo')":"ON NM",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"121.834.637",
+        "('%Setor', 'Part. (%)')":35.0,
+        "('%Setor', 'Part. (%)Acum.')":2057.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Diversos",
+        "('Código', 'Código')":"VAMO3",
+        "('Ação', 'Ação')":"VAMOS",
+        "('Tipo', 'Tipo')":"ON NM",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"485.166.826",
+        "('%Setor', 'Part. (%)')":87.0,
+        "('%Setor', 'Part. (%)Acum.')":2057.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Diversos",
+        "('Código', 'Código')":"YDUQ3",
+        "('Ação', 'Ação')":"YDUQS PART",
+        "('Tipo', 'Tipo')":"ON NM",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"260.249.057",
+        "('%Setor', 'Part. (%)')":156.0,
+        "('%Setor', 'Part. (%)Acum.')":2057.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Financ e Outros \/ Explor Imóveis",
+        "('Código', 'Código')":"ALOS3",
+        "('Ação', 'Ação')":"ALLOS",
+        "('Tipo', 'Tipo')":"ON ED NM",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"476.976.044",
+        "('%Setor', 'Part. (%)')":472.0,
+        "('%Setor', 'Part. (%)Acum.')":1033.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Financ e Outros \/ Explor Imóveis",
+        "('Código', 'Código')":"IGTI11",
+        "('Ação', 'Ação')":"IGUATEMI S.A",
+        "('Tipo', 'Tipo')":"UNT N1",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"198.474.750",
+        "('%Setor', 'Part. (%)')":191.0,
+        "('%Setor', 'Part. (%)Acum.')":1033.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Financ e Outros \/ Explor Imóveis",
+        "('Código', 'Código')":"MULT3",
+        "('Ação', 'Ação')":"MULTIPLAN",
+        "('Tipo', 'Tipo')":"ON N2",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"314.311.970",
+        "('%Setor', 'Part. (%)')":370.0,
+        "('%Setor', 'Part. (%)Acum.')":1033.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Financ e Outros \/ Holdings Divers",
+        "('Código', 'Código')":"ITSA4",
+        "('Ação', 'Ação')":"ITAUSA",
+        "('Tipo', 'Tipo')":"PN N1",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"5.856.697.902",
+        "('%Setor', 'Part. (%)')":2817.0,
+        "('%Setor', 'Part. (%)Acum.')":2817.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Financ e Outros \/ Interms Financs",
+        "('Código', 'Código')":"BBDC3",
+        "('Ação', 'Ação')":"BRADESCO",
+        "('Tipo', 'Tipo')":"ON N1",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"1.469.064.981",
+        "('%Setor', 'Part. (%)')":915.0,
+        "('%Setor', 'Part. (%)Acum.')":18606.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Financ e Outros \/ Interms Financs",
+        "('Código', 'Código')":"BBDC4",
+        "('Ação', 'Ação')":"BRADESCO",
+        "('Tipo', 'Tipo')":"PN N1",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"5.111.682.020",
+        "('%Setor', 'Part. (%)')":3689.0,
+        "('%Setor', 'Part. (%)Acum.')":18606.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Financ e Outros \/ Interms Financs",
+        "('Código', 'Código')":"BBAS3",
+        "('Ação', 'Ação')":"BRASIL",
+        "('Tipo', 'Tipo')":"ON NM",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"2.842.613.858",
+        "('%Setor', 'Part. (%)')":2602.0,
+        "('%Setor', 'Part. (%)Acum.')":18606.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Financ e Outros \/ Interms Financs",
+        "('Código', 'Código')":"BPAC11",
+        "('Ação', 'Ação')":"BTGP BANCO",
+        "('Tipo', 'Tipo')":"UNT N2",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"1.287.247.964",
+        "('%Setor', 'Part. (%)')":2341.0,
+        "('%Setor', 'Part. (%)Acum.')":18606.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Financ e Outros \/ Interms Financs",
+        "('Código', 'Código')":"ITUB4",
+        "('Ação', 'Ação')":"ITAUUNIBANCO",
+        "('Tipo', 'Tipo')":"PN EJ N1",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"5.279.280.090",
+        "('%Setor', 'Part. (%)')":8621.0,
+        "('%Setor', 'Part. (%)Acum.')":18606.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Financ e Outros \/ Interms Financs",
+        "('Código', 'Código')":"SANB11",
+        "('Ação', 'Ação')":"SANTANDER BR",
+        "('Tipo', 'Tipo')":"UNT",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"356.586.730",
+        "('%Setor', 'Part. (%)')":438.0,
+        "('%Setor', 'Part. (%)Acum.')":18606.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Financ e Outros \/ Previd Seguros",
+        "('Código', 'Código')":"BBSE3",
+        "('Ação', 'Ação')":"BBSEGURIDADE",
+        "('Tipo', 'Tipo')":"ON NM",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"637.332.335",
+        "('%Setor', 'Part. (%)')":998.0,
+        "('%Setor', 'Part. (%)Acum.')":1995.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Financ e Outros \/ Previd Seguros",
+        "('Código', 'Código')":"CXSE3",
+        "('Ação', 'Ação')":"CAIXA SEGURI",
+        "('Tipo', 'Tipo')":"ON NM",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"600.000.000",
+        "('%Setor', 'Part. (%)')":384.0,
+        "('%Setor', 'Part. (%)Acum.')":1995.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Financ e Outros \/ Previd Seguros",
+        "('Código', 'Código')":"IRBR3",
+        "('Ação', 'Ação')":"IRBBRASIL RE",
+        "('Tipo', 'Tipo')":"ON NM",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"81.838.243",
+        "('%Setor', 'Part. (%)')":173.0,
+        "('%Setor', 'Part. (%)Acum.')":1995.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Financ e Outros \/ Previd Seguros",
+        "('Código', 'Código')":"PSSA3",
+        "('Ação', 'Ação')":"PORTO SEGURO",
+        "('Tipo', 'Tipo')":"ON NM",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"182.560.698",
+        "('%Setor', 'Part. (%)')":440.0,
+        "('%Setor', 'Part. (%)Acum.')":1995.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Financeiro e Outros\/Serviços Financeiros Diversos",
+        "('Código', 'Código')":"B3SA3",
+        "('Ação', 'Ação')":"B3",
+        "('Tipo', 'Tipo')":"ON NM",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"5.200.055.464",
+        "('%Setor', 'Part. (%)')":3040.0,
+        "('%Setor', 'Part. (%)Acum.')":3040.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Mats Básicos \/ Madeira e Papel",
+        "('Código', 'Código')":"KLBN11",
+        "('Ação', 'Ação')":"KLABIN S\/A",
+        "('Tipo', 'Tipo')":"UNT N2",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"765.785.673",
+        "('%Setor', 'Part. (%)')":662.0,
+        "('%Setor', 'Part. (%)Acum.')":2191.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Mats Básicos \/ Madeira e Papel",
+        "('Código', 'Código')":"SUZB3",
+        "('Ação', 'Ação')":"SUZANO S.A.",
+        "('Tipo', 'Tipo')":"ON NM",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"630.821.784",
+        "('%Setor', 'Part. (%)')":1529.0,
+        "('%Setor', 'Part. (%)Acum.')":2191.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Mats Básicos \/ Mineração",
+        "('Código', 'Código')":"BRAP4",
+        "('Ação', 'Ação')":"BRADESPAR",
+        "('Tipo', 'Tipo')":"PN N1",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"250.982.988",
+        "('%Setor', 'Part. (%)')":184.0,
+        "('%Setor', 'Part. (%)Acum.')":11179.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Mats Básicos \/ Mineração",
+        "('Código', 'Código')":"CMIN3",
+        "('Ação', 'Ação')":"CSNMINERACAO",
+        "('Tipo', 'Tipo')":"ON N2",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"1.646.519.336",
+        "('%Setor', 'Part. (%)')":386.0,
+        "('%Setor', 'Part. (%)Acum.')":11179.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Mats Básicos \/ Mineração",
+        "('Código', 'Código')":"VALE3",
+        "('Ação', 'Ação')":"VALE",
+        "('Tipo', 'Tipo')":"ON ATZ NM",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"4.270.903.023",
+        "('%Setor', 'Part. (%)')":10609.0,
+        "('%Setor', 'Part. (%)Acum.')":11179.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Mats Básicos \/ Químicos",
+        "('Código', 'Código')":"BRKM5",
+        "('Ação', 'Ação')":"BRASKEM",
+        "('Tipo', 'Tipo')":"PNA N1",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"265.388.400",
+        "('%Setor', 'Part. (%)')":108.0,
+        "('%Setor', 'Part. (%)Acum.')":108.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Mats Básicos \/ Sid Metalurgia",
+        "('Código', 'Código')":"GGBR4",
+        "('Ação', 'Ação')":"GERDAU",
+        "('Tipo', 'Tipo')":"PN N1",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"1.308.152.318",
+        "('%Setor', 'Part. (%)')":1024.0,
+        "('%Setor', 'Part. (%)Acum.')":1672.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Mats Básicos \/ Sid Metalurgia",
+        "('Código', 'Código')":"GOAU4",
+        "('Ação', 'Ação')":"GERDAU MET",
+        "('Tipo', 'Tipo')":"PN N1",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"623.866.944",
+        "('%Setor', 'Part. (%)')":272.0,
+        "('%Setor', 'Part. (%)Acum.')":1672.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Mats Básicos \/ Sid Metalurgia",
+        "('Código', 'Código')":"CSNA3",
+        "('Ação', 'Ação')":"SID NACIONAL",
+        "('Tipo', 'Tipo')":"ON",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"727.459.637",
+        "('%Setor', 'Part. (%)')":271.0,
+        "('%Setor', 'Part. (%)Acum.')":1672.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Mats Básicos \/ Sid Metalurgia",
+        "('Código', 'Código')":"USIM5",
+        "('Ação', 'Ação')":"USIMINAS",
+        "('Tipo', 'Tipo')":"PNA N1",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"515.193.199",
+        "('%Setor', 'Part. (%)')":105.0,
+        "('%Setor', 'Part. (%)Acum.')":1672.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Petróleo, Gás e Biocombustíveis",
+        "('Código', 'Código')":"BRAV3",
+        "('Ação', 'Ação')":"BRAVA",
+        "('Tipo', 'Tipo')":"ON NM",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"451.311.960",
+        "('%Setor', 'Part. (%)')":414.0,
+        "('%Setor', 'Part. (%)Acum.')":16964.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Petróleo, Gás e Biocombustíveis",
+        "('Código', 'Código')":"CSAN3",
+        "('Ação', 'Ação')":"COSAN",
+        "('Tipo', 'Tipo')":"ON NM",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"1.160.227.510",
+        "('%Setor', 'Part. (%)')":320.0,
+        "('%Setor', 'Part. (%)Acum.')":16964.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Petróleo, Gás e Biocombustíveis",
+        "('Código', 'Código')":"PETR3",
+        "('Ação', 'Ação')":"PETROBRAS",
+        "('Tipo', 'Tipo')":"ON N2",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"3.483.155.534",
+        "('%Setor', 'Part. (%)')":5793.0,
+        "('%Setor', 'Part. (%)Acum.')":16964.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Petróleo, Gás e Biocombustíveis",
+        "('Código', 'Código')":"PETR4",
+        "('Ação', 'Ação')":"PETROBRAS",
+        "('Tipo', 'Tipo')":"PN N2",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"4.410.955.873",
+        "('%Setor', 'Part. (%)')":6690.0,
+        "('%Setor', 'Part. (%)Acum.')":16964.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Petróleo, Gás e Biocombustíveis",
+        "('Código', 'Código')":"RECV3",
+        "('Ação', 'Ação')":"PETRORECSA",
+        "('Tipo', 'Tipo')":"ON NM",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"274.981.010",
+        "('%Setor', 'Part. (%)')":171.0,
+        "('%Setor', 'Part. (%)Acum.')":16964.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Petróleo, Gás e Biocombustíveis",
+        "('Código', 'Código')":"PRIO3",
+        "('Ação', 'Ação')":"PETRORIO",
+        "('Tipo', 'Tipo')":"ON NM",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"779.999.989",
+        "('%Setor', 'Part. (%)')":1529.0,
+        "('%Setor', 'Part. (%)Acum.')":16964.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Petróleo, Gás e Biocombustíveis",
+        "('Código', 'Código')":"RAIZ4",
+        "('Ação', 'Ação')":"RAIZEN",
+        "('Tipo', 'Tipo')":"PN N2",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"1.210.756.333",
+        "('%Setor', 'Part. (%)')":80.0,
+        "('%Setor', 'Part. (%)Acum.')":16964.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Petróleo, Gás e Biocombustíveis",
+        "('Código', 'Código')":"UGPA3",
+        "('Ação', 'Ação')":"ULTRAPAR",
+        "('Tipo', 'Tipo')":"ON NM",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"1.089.082.981",
+        "('%Setor', 'Part. (%)')":869.0,
+        "('%Setor', 'Part. (%)Acum.')":16964.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Petróleo, Gás e Biocombustíveis",
+        "('Código', 'Código')":"VBBR3",
+        "('Ação', 'Ação')":"VIBRA",
+        "('Tipo', 'Tipo')":"ON NM",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"1.113.939.036",
+        "('%Setor', 'Part. (%)')":1098.0,
+        "('%Setor', 'Part. (%)Acum.')":16964.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Saúde\/Comércio Distr.",
+        "('Código', 'Código')":"HYPE3",
+        "('Ação', 'Ação')":"HYPERA",
+        "('Tipo', 'Tipo')":"ON NM",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"360.057.207",
+        "('%Setor', 'Part. (%)')":430.0,
+        "('%Setor', 'Part. (%)Acum.')":1242.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Saúde\/Comércio Distr.",
+        "('Código', 'Código')":"RADL3",
+        "('Ação', 'Ação')":"RAIADROGASIL",
+        "('Tipo', 'Tipo')":"ON NM",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"1.297.567.800",
+        "('%Setor', 'Part. (%)')":812.0,
+        "('%Setor', 'Part. (%)Acum.')":1242.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Saúde\/SM Hosp An.Diag",
+        "('Código', 'Código')":"FLRY3",
+        "('Ação', 'Ação')":"FLEURY",
+        "('Tipo', 'Tipo')":"ON NM",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"455.988.366",
+        "('%Setor', 'Part. (%)')":304.0,
+        "('%Setor', 'Part. (%)Acum.')":2657.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Saúde\/SM Hosp An.Diag",
+        "('Código', 'Código')":"HAPV3",
+        "('Ação', 'Ação')":"HAPVIDA",
+        "('Tipo', 'Tipo')":"ON ATZ NM",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"311.217.208",
+        "('%Setor', 'Part. (%)')":478.0,
+        "('%Setor', 'Part. (%)Acum.')":2657.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Saúde\/SM Hosp An.Diag",
+        "('Código', 'Código')":"ONCO3",
+        "('Ação', 'Ação')":"ONCOCLINICAS",
+        "('Tipo', 'Tipo')":"ON NM",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"573.410.284",
+        "('%Setor', 'Part. (%)')":145.0,
+        "('%Setor', 'Part. (%)Acum.')":2657.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Saúde\/SM Hosp An.Diag",
+        "('Código', 'Código')":"RDOR3",
+        "('Ação', 'Ação')":"REDE D OR",
+        "('Tipo', 'Tipo')":"ON NM",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"1.145.289.019",
+        "('%Setor', 'Part. (%)')":1730.0,
+        "('%Setor', 'Part. (%)Acum.')":2657.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Tec.Informação\/Programas Servs",
+        "('Código', 'Código')":"LWSA3",
+        "('Ação', 'Ação')":"LWSA",
+        "('Tipo', 'Tipo')":"ON NM",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"388.793.259",
+        "('%Setor', 'Part. (%)')":68.0,
+        "('%Setor', 'Part. (%)Acum.')":1145.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Tec.Informação\/Programas Servs",
+        "('Código', 'Código')":"TOTS3",
+        "('Ação', 'Ação')":"TOTVS",
+        "('Tipo', 'Tipo')":"ON NM",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"531.531.039",
+        "('%Setor', 'Part. (%)')":1077.0,
+        "('%Setor', 'Part. (%)Acum.')":1145.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Telecomunicação",
+        "('Código', 'Código')":"VIVT3",
+        "('Ação', 'Ação')":"TELEF BRASIL",
+        "('Tipo', 'Tipo')":"ON EJ",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"764.884.256",
+        "('%Setor', 'Part. (%)')":1119.0,
+        "('%Setor', 'Part. (%)Acum.')":1895.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Telecomunicação",
+        "('Código', 'Código')":"TIMS3",
+        "('Ação', 'Ação')":"TIM",
+        "('Tipo', 'Tipo')":"ON EJ NM",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"806.346.600",
+        "('%Setor', 'Part. (%)')":776.0,
+        "('%Setor', 'Part. (%)Acum.')":1895.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Utilidade Públ \/ Água Saneamento",
+        "('Código', 'Código')":"AMBP3",
+        "('Ação', 'Ação')":"AMBIPAR",
+        "('Tipo', 'Tipo')":"ON NM",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"36.932.489",
+        "('%Setor', 'Part. (%)')":225.0,
+        "('%Setor', 'Part. (%)Acum.')":3891.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Utilidade Públ \/ Água Saneamento",
+        "('Código', 'Código')":"CSMG3",
+        "('Ação', 'Ação')":"COPASA",
+        "('Tipo', 'Tipo')":"ON NM",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"188.462.398",
+        "('%Setor', 'Part. (%)')":226.0,
+        "('%Setor', 'Part. (%)Acum.')":3891.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Utilidade Públ \/ Água Saneamento",
+        "('Código', 'Código')":"SBSP3",
+        "('Ação', 'Ação')":"SABESP",
+        "('Tipo', 'Tipo')":"ON NM",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"683.495.706",
+        "('%Setor', 'Part. (%)')":3440.0,
+        "('%Setor', 'Part. (%)Acum.')":3891.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Utilidade Públ \/ Energ Elétrica",
+        "('Código', 'Código')":"AURE3",
+        "('Ação', 'Ação')":"AUREN",
+        "('Tipo', 'Tipo')":"ON NM",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"323.738.747",
+        "('%Setor', 'Part. (%)')":139.0,
+        "('%Setor', 'Part. (%)Acum.')":11998.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Utilidade Públ \/ Energ Elétrica",
+        "('Código', 'Código')":"CMIG4",
+        "('Ação', 'Ação')":"CEMIG",
+        "('Tipo', 'Tipo')":"PN N1",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"1.858.636.840",
+        "('%Setor', 'Part. (%)')":892.0,
+        "('%Setor', 'Part. (%)Acum.')":11998.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Utilidade Públ \/ Energ Elétrica",
+        "('Código', 'Código')":"CPLE3",
+        "('Ação', 'Ação')":"COPEL",
+        "('Tipo', 'Tipo')":"ON N2",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"1.293.575.090",
+        "('%Setor', 'Part. (%)')":664.0,
+        "('%Setor', 'Part. (%)Acum.')":11998.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Utilidade Públ \/ Energ Elétrica",
+        "('Código', 'Código')":"CPLE6",
+        "('Ação', 'Ação')":"COPEL",
+        "('Tipo', 'Tipo')":"PNB N2",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"1.671.982.390",
+        "('%Setor', 'Part. (%)')":921.0,
+        "('%Setor', 'Part. (%)Acum.')":11998.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Utilidade Públ \/ Energ Elétrica",
+        "('Código', 'Código')":"CPFE3",
+        "('Ação', 'Ação')":"CPFL ENERGIA",
+        "('Tipo', 'Tipo')":"ON NM",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"187.732.538",
+        "('%Setor', 'Part. (%)')":331.0,
+        "('%Setor', 'Part. (%)Acum.')":11998.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Utilidade Públ \/ Energ Elétrica",
+        "('Código', 'Código')":"ELET3",
+        "('Ação', 'Ação')":"ELETROBRAS",
+        "('Tipo', 'Tipo')":"ON N1",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"1.977.170.723",
+        "('%Setor', 'Part. (%)')":3474.0,
+        "('%Setor', 'Part. (%)Acum.')":11998.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Utilidade Públ \/ Energ Elétrica",
+        "('Código', 'Código')":"ELET6",
+        "('Ação', 'Ação')":"ELETROBRAS",
+        "('Tipo', 'Tipo')":"PNB N1",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"268.875.696",
+        "('%Setor', 'Part. (%)')":511.0,
+        "('%Setor', 'Part. (%)Acum.')":11998.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Utilidade Públ \/ Energ Elétrica",
+        "('Código', 'Código')":"ENGI11",
+        "('Ação', 'Ação')":"ENERGISA",
+        "('Tipo', 'Tipo')":"UNT N2",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"326.175.300",
+        "('%Setor', 'Part. (%)')":692.0,
+        "('%Setor', 'Part. (%)Acum.')":11998.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Utilidade Públ \/ Energ Elétrica",
+        "('Código', 'Código')":"ENEV3",
+        "('Ação', 'Ação')":"ENEVA",
+        "('Tipo', 'Tipo')":"ON NM",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"1.907.494.195",
+        "('%Setor', 'Part. (%)')":1192.0,
+        "('%Setor', 'Part. (%)Acum.')":11998.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Utilidade Públ \/ Energ Elétrica",
+        "('Código', 'Código')":"EGIE3",
+        "('Ação', 'Ação')":"ENGIE BRASIL",
+        "('Tipo', 'Tipo')":"ON NM",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"255.236.938",
+        "('%Setor', 'Part. (%)')":474.0,
+        "('%Setor', 'Part. (%)Acum.')":11998.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Utilidade Públ \/ Energ Elétrica",
+        "('Código', 'Código')":"EQTL3",
+        "('Ação', 'Ação')":"EQUATORIAL",
+        "('Tipo', 'Tipo')":"ON NM",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"1.244.304.866",
+        "('%Setor', 'Part. (%)')":1970.0,
+        "('%Setor', 'Part. (%)Acum.')":11998.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Utilidade Públ \/ Energ Elétrica",
+        "('Código', 'Código')":"ISAE4",
+        "('Ação', 'Ação')":"ISA ENERGIA",
+        "('Tipo', 'Tipo')":"PN N1",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"395.801.044",
+        "('%Setor', 'Part. (%)')":399.0,
+        "('%Setor', 'Part. (%)Acum.')":11998.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Utilidade Públ \/ Energ Elétrica",
+        "('Código', 'Código')":"TAEE11",
+        "('Ação', 'Ação')":"TAESA",
+        "('Tipo', 'Tipo')":"UNT N2",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"218.568.234",
+        "('%Setor', 'Part. (%)')":339.0,
+        "('%Setor', 'Part. (%)Acum.')":11998.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Quantidade Teórica Total",
+        "('Código', 'Código')":"Quantidade Teórica Total",
+        "('Ação', 'Ação')":"Quantidade Teórica Total",
+        "('Tipo', 'Tipo')":"Quantidade Teórica Total",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"97.512.711.996",
+        "('%Setor', 'Part. (%)')":100000.0,
+        "('%Setor', 'Part. (%)Acum.')":100000.0,
+        "('data_pregao', '')":"2025-08-01"
+    },
+    {
+        "('Setor', 'Setor')":"Redutor",
+        "('Código', 'Código')":"Redutor",
+        "('Ação', 'Ação')":"Redutor",
+        "('Tipo', 'Tipo')":"Redutor",
+        "('Qtde. Teórica', 'Qtde. Teórica')":"38.241.282,18072441",
+        "('%Setor', 'Part. (%)')":null,
+        "('%Setor', 'Part. (%)Acum.')":null,
+        "('data_pregao', '')":"2025-08-01"
+    }
+]
